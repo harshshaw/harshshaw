@@ -20,6 +20,8 @@
 - ⚡ Fun fact **Love Watching historic pictures and videos dating 1900 earlier**
 
 <h3 align="left">Connect with me:</h3>
+<img align="right" alt="GIF" width="260px" src="https://user-images.githubusercontent.com/60667917/100003225-bc9e7d80-2deb-11eb-8a9d-2bcca799793e.gif" />
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-shaw-070105174" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harsh-shaw-070105174" height="30" width="40" /></a>
 </p>

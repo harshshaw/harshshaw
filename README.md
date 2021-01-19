@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh shaw</h1>
-<h3 align="center">A passionate Full Stack And Machine learning practioner</h3>
+<h3 align="center">A passionate Full Stack And Machine learning practitioner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshaw&label=Profile%20views&color=0e75b6&style=flat" alt="harshshaw" /> </p>
 
